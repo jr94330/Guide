@@ -1,6 +1,28 @@
 # Guide 第一期🌄
 
 <!--ts-->
+* [Guide 第一期🌄](#guide-第一期)
+   * [内容](#内容)
+      * [1. <a href="https://github.com/Gnucash/gnucash">Gnucash/gnucash</a>](https://github.com/Gnucash/gnucash)
+      * [2. <a href="https://github.com/microg/GmsCore">microg/GmsCore</a>](https://github.com/microg/GmsCore)
+      * [3. <a href="https://github.com/Raphire/Win11Debloat">Raphire / Win11Debloat</a>](https://github.com/Raphire/Win11Debloat)
+      * [4. <a href="https://github.com/cuixueshe/earthworm">Raphire / Win11Debloat</a>](https://github.com/cuixueshe/earthworm)
+         * [1. 要求：](#1-要求)
+         * [2. 安装依赖](#2-安装依赖)
+         * [3. 配置 .env 文件](#3-配置-env-文件)
+            * [Server](#server)
+            * [Client](#client)
+         * [4. 恢复 Logto 的数据](#4-恢复-logto-的数据)
+         * [5. 启动 Docker Compose 服务](#5-启动-docker-compose-服务)
+         * [6. 初始化数据库表结构](#6-初始化数据库表结构)
+         * [7. 创建并上传课程数据](#7-创建并上传课程数据)
+         * [8. 启动后端服务](#8-启动后端服务)
+         * [9. 启动前端服务](#9-启动前端服务)
+* [声明🧭](#声明)
+
+<!-- Created by https://github.com/ekalinin/github-markdown-toc -->
+<!-- Added by: runner, at: Sat Sep 21 09:12:27 UTC 2024 -->
+
 <!--te-->
 
 ## 内容
