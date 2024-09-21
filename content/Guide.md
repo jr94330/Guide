@@ -1,14 +1,14 @@
 # Guide 第一期🌄
 [toc]
 ## 内容
-### 1.[Gnucash/gnucash](https://github.com/Gnucash/gnucash)
+### 1. [Gnucash/gnucash](https://github.com/Gnucash/gnucash)
 这是一款适用于个人和小型企业的开源财务软件，它采用复式记账法，提供了简洁的操作界面，并支持生成报表、对账、多国货币，以及获取股票实时价格等功能，适用于 Windows、Linux 和 macOS 平台。![3a460a783496179a6b59168f5bec2155.png](en-resource://database/511:1)
-### 2.[microg/GmsCore](https://github.com/microg/GmsCore)
+### 2. [microg/GmsCore](https://github.com/microg/GmsCore)
 该项目是一个开源的替代 Google Play 服务的解决方案，它可以让无法安装或不想用 Google 服务的用户，运行依赖谷歌服务的 Android 应用。
-### 3.[Raphire / Win11Debloat](https://github.com/Raphire/Win11Debloat)
+### 3. [Raphire / Win11Debloat](https://github.com/Raphire/Win11Debloat)
 这是一个用于优化 Windows 10/11 操作系统的 PowerShell 脚本，使用时无需额外安装任何软件。它通过删除或禁用 Windows 系统中的预装应用和不必要的服务，如诊断数据、定向广告、提示、Copilot 和 Bing 网络搜索等，减少系统资源占用，还你一个更加干净、高效的操作系统。
 ![ff391fc89e233b03cfafcc09fe669f12.png](en-resource://database/513:1)
-### 4.[Raphire / Win11Debloat](https://github.com/cuixueshe/earthworm)
+### 4. [Raphire / Win11Debloat](https://github.com/cuixueshe/earthworm)
 这是一个开源的在线学习英语网站，支持自托管和本地运行。它采用连词成句、循序渐进的方法帮你学习英语。通过不断地重复形成肌肉记忆，并结合游戏奖励和积分排名的方式，让背单词变得有趣且高效。![79937d83048954be64c9576283d3a3e3.png](en-resource://database/515:1)
 #### 1. 要求：
 
