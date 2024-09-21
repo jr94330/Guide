@@ -6,7 +6,7 @@
 
 ## 内容
 ### 1. [Gnucash/gnucash](https://github.com/Gnucash/gnucash)
-这是一款适用于个人和小型企业的开源财务软件，它采用复式记账法，提供了简洁的操作界面，并支持生成报表、对账、多国货币，以及获取股票实时价格等功能，适用于 Windows、Linux 和 macOS 平台。![3a460a783496179a6b59168f5bec2155.png](en-resource://database/511:1)
+这是一款适用于个人和小型企业的开源财务软件，它采用复式记账法，提供了简洁的操作界面，并支持生成报表、对账、多国货币，以及获取股票实时价格等功能，适用于 Windows、Linux 和 macOS 平台。![3a460a783496179a6b59168f5bec2155.png](en-resource://database/511:12)
 ### 2. [microg/GmsCore](https://github.com/microg/GmsCore)
 该项目是一个开源的替代 Google Play 服务的解决方案，它可以让无法安装或不想用 Google 服务的用户，运行依赖谷歌服务的 Android 应用。
 ### 3. [Raphire / Win11Debloat](https://github.com/Raphire/Win11Debloat)
