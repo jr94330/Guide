@@ -132,4 +132,4 @@ pnpm -v # 8+
 # 声明🧭
 
 ![img](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)
-本作品采用[署名-非商业性使用-禁止演绎 4.0 国际](https://creativecommons.org/licenses/by-nc-nd/4.0/)****
+本作品采用[署名-非商业性使用-禁止演绎 4.0 国际](https://creativecommons.org/licenses/by-nc-nd/4.0/)
