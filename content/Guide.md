@@ -1,5 +1,5 @@
 # Guide 第一期🌄
-[toc]
+[TOC]
 ## 内容
 ### 1. [Gnucash/gnucash](https://github.com/Gnucash/gnucash)
 这是一款适用于个人和小型企业的开源财务软件，它采用复式记账法，提供了简洁的操作界面，并支持生成报表、对账、多国货币，以及获取股票实时价格等功能，适用于 Windows、Linux 和 macOS 平台。![3a460a783496179a6b59168f5bec2155.png](en-resource://database/511:1)
