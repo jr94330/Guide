@@ -6,7 +6,7 @@
       * [1. <a href="https://github.com/Gnucash/gnucash">Gnucash/gnucash</a>](https://github.com/Gnucash/gnucash)
       * [2. <a href="https://github.com/microg/GmsCore">microg/GmsCore</a>](https://github.com/microg/GmsCore)
       * [3. <a href="https://github.com/Raphire/Win11Debloat">Raphire / Win11Debloat</a>](https://github.com/Raphire/Win11Debloat)
-      * [4. <a href="https://github.com/cuixueshe/earthworm">Raphire / Win11Debloat</a>](https://github.com/cuixueshe/earthworm)
+      * [4. <a href="https://github.com/cuixueshe/earthworm">cuixueshe/earthworm</a>](https://github.com/cuixueshe/earthworm)
          * [1. 要求：](#1-要求)
          * [2. 安装依赖](#2-安装依赖)
          * [3. 配置 .env 文件](#3-配置-env-文件)
@@ -21,7 +21,7 @@
 * [声明🧭](#声明)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: runner, at: Tue Oct  1 10:18:59 UTC 2024 -->
+<!-- Added by: runner, at: Tue Oct  1 10:20:21 UTC 2024 -->
 
 <!--te-->
 
