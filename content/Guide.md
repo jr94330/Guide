@@ -3,10 +3,10 @@
 <!--ts-->
 * [Guide 第一期🌄](#guide-第一期)
    * [内容](#内容)
-      * [1. Gnucash/gnucash](#1-gnucashgnucash)
+      * [1. <a href="https://github.com/Gnucash/gnucash">Gnucash/gnucash</a>](https://github.com/Gnucash/gnucash)
       * [2. <a href="https://github.com/microg/GmsCore">microg/GmsCore</a>](https://github.com/microg/GmsCore)
-      * [3. Raphire / Win11Debloat](#3-raphire-win11debloat)
-      * [4. cuixueshe/earthworm](#4-cuixuesheearthworm)
+      * [3. <a href="https://github.com/Raphire/Win11Debloat">Raphire / Win11Debloat</a>](https://github.com/Raphire/Win11Debloat)
+      * [4. <a href="https://github.com/cuixueshe/earthworm">cuixueshe/earthworm</a>](https://github.com/cuixueshe/earthworm)
          * [1. 要求：](#1-要求)
          * [2. 安装依赖](#2-安装依赖)
          * [3. 配置 .env 文件](#3-配置-env-文件)
@@ -21,7 +21,7 @@
 * [声明🧭](#声明)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: runner, at: Wed Oct  2 07:28:13 UTC 2024 -->
+<!-- Added by: runner, at: Wed Oct  2 07:31:16 UTC 2024 -->
 
 <!--te-->
 
