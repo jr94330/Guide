@@ -45,7 +45,7 @@ GitHub 上有趣、入门级的开源项目。每月 28 号以月刊的形式更
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal" align="center" style="margin-top:7.8pt;margin-right:0cm;
   margin-bottom:7.8pt;margin-left:0cm;text-align:center;text-indent:0cm;
-  mso-char-indent-count:0">完全开源的财务软件</p>
+  mso-char-indent-count:0"><span lang="EN-US"><a href="/content/HelloGitHub001.md"><span lang="EN-US"><span lang="EN-US">完全开源的财务软件</span></span></a></span></p>
   </td>
   <td width="184" style="width:138.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -53,7 +53,7 @@ GitHub 上有趣、入门级的开源项目。每月 28 号以月刊的形式更
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal" align="center" style="margin-top:7.8pt;margin-right:0cm;
   margin-bottom:7.8pt;margin-left:0cm;text-align:center;text-indent:0cm;
-  mso-char-indent-count:0"><span class="SpellE"><span lang="EN-US">Gnucash</span></span><span lang="EN-US">/<span class="SpellE">gnucash</span></span></p>
+  mso-char-indent-count:0"><span lang="EN-US"><a href="https://github.com/Gnucash/gnucash">Gnucash/gnucash</a></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:2">
@@ -63,7 +63,7 @@ GitHub 上有趣、入门级的开源项目。每月 28 号以月刊的形式更
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal" align="center" style="margin-top:7.8pt;margin-right:0cm;
   margin-bottom:7.8pt;margin-left:0cm;text-align:center;text-indent:0cm;
-  mso-char-indent-count:0"><span class="GramE">谷歌服务</span>框架的开源替代品</p>
+  mso-char-indent-count:0"><span lang="EN-US"><a href="/content/HelloGitHub001.md"><span lang="EN-US"><span lang="EN-US">谷歌服务框架的开源替代品</span></span></a></span></p>
   </td>
   <td width="184" style="width:138.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -71,7 +71,7 @@ GitHub 上有趣、入门级的开源项目。每月 28 号以月刊的形式更
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal" align="center" style="margin-top:7.8pt;margin-right:0cm;
   margin-bottom:7.8pt;margin-left:0cm;text-align:center;text-indent:0cm;
-  mso-char-indent-count:0"><span lang="EN-US">microg/<span class="SpellE">GmsCore</span></span></p>
+  mso-char-indent-count:0"><span lang="EN-US"><a href="https://github.com/microg/GmsCore">microg/GmsCore</a></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:3">
@@ -81,7 +81,7 @@ GitHub 上有趣、入门级的开源项目。每月 28 号以月刊的形式更
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal" align="center" style="margin-top:7.8pt;margin-right:0cm;
   margin-bottom:7.8pt;margin-left:0cm;text-align:center;text-indent:0cm;
-  mso-char-indent-count:0">优化<span lang="EN-US"> Windows 11 </span>系统的脚本</p>
+  mso-char-indent-count:0"><span lang="EN-US"><a href="/content/HelloGitHub001.md"><span lang="EN-US"><span lang="EN-US">优化 Windows 11 </span></span><span lang="EN-US"><span lang="EN-US">系统的脚本</span></span></a></span></p>
   </td>
   <td width="184" style="width:138.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -89,7 +89,7 @@ GitHub 上有趣、入门级的开源项目。每月 28 号以月刊的形式更
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal" align="center" style="margin-top:7.8pt;margin-right:0cm;
   margin-bottom:7.8pt;margin-left:0cm;text-align:center;text-indent:0cm;
-  mso-char-indent-count:0"><span class="SpellE"><span lang="EN-US">Raphire</span></span><span lang="EN-US"> /&nbsp;Win11Debloat</span></p>
+  mso-char-indent-count:0"><span lang="EN-US"><a href="https://github.com/Raphire/Win11Debloat">Raphire /&nbsp;Win11Debloat</a></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:4">
@@ -99,7 +99,7 @@ GitHub 上有趣、入门级的开源项目。每月 28 号以月刊的形式更
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal" align="center" style="margin-top:7.8pt;margin-right:0cm;
   margin-bottom:7.8pt;margin-left:0cm;text-align:center;text-indent:0cm;
-  mso-char-indent-count:0">让你上瘾的英语学习网站</p>
+  mso-char-indent-count:0"><span lang="EN-US"><a href="/content/HelloGitHub001.md"><span lang="EN-US"><span lang="EN-US">让你上瘾的英语学习网站</span></span></a></span></p>
   </td>
   <td width="184" style="width:138.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -107,7 +107,7 @@ GitHub 上有趣、入门级的开源项目。每月 28 号以月刊的形式更
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal" align="center" style="margin-top:7.8pt;margin-right:0cm;
   margin-bottom:7.8pt;margin-left:0cm;text-align:center;text-indent:0cm;
-  mso-char-indent-count:0"><span class="SpellE"><span lang="EN-US">cuixueshe</span></span><span lang="EN-US">/earthworm</span></p>
+  mso-char-indent-count:0"><span lang="EN-US"><a href="https://github.com/cuixueshe/earthworm">cuixueshe/earthworm</a></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes">
