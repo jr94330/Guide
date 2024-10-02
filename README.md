@@ -45,7 +45,7 @@ GitHub 上有趣、入门级的开源项目。每月 28 号以月刊的形式更
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal" align="center" style="margin-top:7.8pt;margin-right:0cm;
   margin-bottom:7.8pt;margin-left:0cm;text-align:center;text-indent:0cm;
-  mso-char-indent-count:0"><span lang="EN-US"><a href="/content/Guide.md"><span lang="EN-US"><span lang="EN-US">完全开源的财务软件</span></span></a></span></p>
+  mso-char-indent-count:0"><span lang="EN-US"><a href="https://github.com/jr94330/Guide/blob/main/content/Guide.md#1-gnucashgnucash"><span lang="EN-US"><span lang="EN-US">完全开源的财务软件</span></span></a></span></p>
   </td>
   <td width="184" style="width:138.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
