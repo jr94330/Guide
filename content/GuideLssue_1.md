@@ -3,10 +3,10 @@
 <!--ts-->
 * [Guide 第一期🌄](#guide-第一期)
    * [内容](#内容)
-      * [1. <a href="https://github.com/Gnucash/gnucash">Gnucash/gnucash</a>](https://github.com/Gnucash/gnucash)
-      * [2. <a href="https://github.com/microg/GmsCore">microg/GmsCore</a>](https://github.com/microg/GmsCore)
-      * [3. <a href="https://github.com/Raphire/Win11Debloat">Raphire / Win11Debloat</a>](https://github.com/Raphire/Win11Debloat)
-      * [4. <a href="https://github.com/cuixueshe/earthworm">cuixueshe/earthworm</a>](https://github.com/cuixueshe/earthworm)
+      * [1. 完全开源的财务软件<a href="https://github.com/Gnucash/gnucash">Gnucash/gnucash</a>](https://github.com/Gnucash/gnucash)
+      * [2. 谷歌服务框架的开源替代品<a href="https://github.com/microg/GmsCore">microg/GmsCore</a>](https://github.com/microg/GmsCore)
+      * [3. 优化 Windows 11 系统的脚本<a href="https://github.com/Raphire/Win11Debloat">Raphire / Win11Debloat</a>](https://github.com/Raphire/Win11Debloat)
+      * [4. 让你上瘾的英语学习网站<a href="https://github.com/cuixueshe/earthworm">cuixueshe/earthworm</a>](https://github.com/cuixueshe/earthworm)
          * [1. 要求：](#1-要求)
          * [2. 安装依赖](#2-安装依赖)
          * [3. 配置 .env 文件](#3-配置-env-文件)
@@ -21,7 +21,7 @@
 * [声明🧭](#声明)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: runner, at: Thu Oct  3 08:19:55 UTC 2024 -->
+<!-- Added by: runner, at: Mon Oct  7 06:30:53 UTC 2024 -->
 
 <!--te-->
 
