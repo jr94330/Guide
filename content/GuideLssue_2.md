@@ -143,7 +143,7 @@ IDEA plugin for directly editing and modifying files in jar without decompressio
 ##### 1. 从插件市场安装插件
 首先从市场安装插件 JarEditor，IDEA版本 >= **2020.3**
 
-<img src="./images/2_JarEditor_1.png" width="800" height="606" />
+<img src="images/2_JarEditor_1.png" width="800" height="606" />
 
 
 ##### 2. 编辑并构建 Jar
