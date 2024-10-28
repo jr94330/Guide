@@ -43,7 +43,8 @@
 >[xuchengsheng / wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j)
 
 
-![01b879302a0d0e60e7d4035a78f88ee5.png](en-resource://database/529:1)
+![2wx-dump-4j_1.png](en-resource://database/529:1)
+<img src="../images/2wx-dump-4j_1.png"/>
 这是一款基于 Java 开发的微信数据分析工具。它可以管理/导出微信聊天中的引用、图片、表情等消息，支持微信多开、找回删除好友、统计收发消息、查看历史朋友圈等功能。
 #### 💡 主要功能
 - 👤 **获取用户信息**：获取当前登录微信的详细信息，包括昵称、账号、手机号、邮箱、秘钥、微信Id。
