@@ -10,6 +10,7 @@
             * [目前(v1.1.3版本)保存方式支持：](#目前v113版本保存方式支持)
             * [v1.07以下版本：](#v107以下版本)
       * [1. Java 版的微信聊天记录备份工具](#1-java-版的微信聊天记录备份工具)
+         * [💡 主要功能](#-主要功能)
          * [🚀 快速启动](#-快速启动)
          * [环境准备](#环境准备)
          * [环境准备](#环境准备-1)
@@ -27,7 +28,7 @@
             * [SDK Default对应JDK版本](#sdk-default对应jdk版本)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: runner, at: Mon Oct 28 06:51:10 UTC 2024 -->
+<!-- Added by: runner, at: Mon Oct 28 07:06:46 UTC 2024 -->
 
 <!--te-->
 
