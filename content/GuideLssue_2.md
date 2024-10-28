@@ -71,7 +71,7 @@
 >4. 输入3退出程序
 
 
-### 1. Java 版的微信聊天记录备份工具
+### 2. Java 版的微信聊天记录备份工具
 >[xuchengsheng / wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j)
 
 <img src="../images/2_wx-dump-4j_1.png"/>
@@ -144,13 +144,13 @@ $ npm run start
 ```
 - 前端服务启动成功后，在浏览器中访问 http://localhost:8000 以查看应用。
 
-### 2. Spring 源码阅读
+### 3. Spring 源码阅读
 >[xuchengsheng/spring-reading](https://github.com/xuchengsheng/spring-reading)
 
 这是一份讲解 Spring 源码的图文教程，内容涵盖了 Spring 框架的核心概念和关键功能，而且还贴心地标注了难度等级，更加便于学习。
 
 
-### 3. 直接编辑 JAR 文件的 IDEA 插件
+### 4. 直接编辑 JAR 文件的 IDEA 插件
 >[Liubsyy / JarEditor](https://github.com/Liubsyy/JarEditor)
 
 IDEA plugin for directly editing and modifying files in jar without decompression. （一款无需解压直接编辑修改jar包内文件的IDEA插件）
