@@ -152,7 +152,7 @@ IDEA plugin for directly editing and modifying files in jar without decompressio
 > **外部jar** ：File->Project Structure->Libraries->Add Library，然后就可以看到反编译的jar了。<br>
 > **嵌套jar** : 嵌套jar上右键->JarEditor->Structure->Expand Nested Jar
 
-<img src="./images/2_JarEditor_2.png" width="800" height="506" />
+<img src="../images/2_JarEditor_2.png" width="800" height="506" />
 
 修改完成后，点击**Save（Compile）**，编译并保存当前修改的java内容。
 
@@ -162,7 +162,7 @@ IDEA plugin for directly editing and modifying files in jar without decompressio
 
 下面是一个演示例子:
 
-<img src="./images/2_JarEditor_3.gif"  width="800" height="511" />
+<img src="../images/2_JarEditor_3.gif"  width="800" height="511" />
 
 ##### 3. 修改字节码工具
 针对混淆jar，反编译的效果不是很好，此时可以使用直接修改字节码工具
@@ -170,17 +170,17 @@ IDEA plugin for directly editing and modifying files in jar without decompressio
 
 - **Javassist** : 可以对字段/方法/构造函数/静态代码块进行增删改 (包括内部类)
 
-<img src="./images/2_JarEditor_4.png" width="800" height="600" />
+<img src="../images/2_JarEditor_4.png" width="800" height="600" />
 
 
 ##### 4. 其他操作
 在jar包的项目视图中，右键可以看到**JarEditor->New/Delete**等操作，可以在jar内添加/删除/重命名/复制/粘贴/导出文件。
 
-<img src="./images/2_JarEditor_5.png" width="600" height="550" />
+<img src="../images/2_JarEditor_5.png" width="600" height="550" />
 
 点击 **Search** 图标，可以搜索jar包的内容，如果是class jar将根据反编译的内容进行搜索
 
-<img src="./images/2_JarEditor_6.png" width="600" height="470" />
+<img src="../images/2_JarEditor_6.png" width="600" height="470" />
 
 
 
